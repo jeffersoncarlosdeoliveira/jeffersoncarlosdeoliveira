@@ -2,7 +2,7 @@
 ### Hi there 👋
 # I'm Jefferson Oliveira
 
-- 🔭 I’m currently working on SyncSoftwares
+- 🔭 I’m currently working at SyncSoftwares
 - 🌱 I’m currently learning TypeScript, VueJS, C#
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeffersoncarlosdeoliveira/)
 - ⚡ Fun fact: I love series, movies and others geeks stuffs 😄
